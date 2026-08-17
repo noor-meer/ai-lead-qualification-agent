@@ -1,0 +1,27 @@
+{
+  "info": {
+    "name": "AI Lead Agent",
+    "description": "Postman request used to test the AI Lead Qualification webhook"
+  },
+  "item": [
+    {
+      "name": "Send Lead to Webhook",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"Ali Raza\",\n  \"email\": \"ali@example.com\",\n  \"message\": \"I need this automation set up urgently, my leads are piling up and I'm losing sales.\"\n}"
+        },
+        "url": {
+          "raw": "https://nonprejudicial-leif-undependably.ngrok-free.dev/webhook/lead-intake"
+        }
+      }
+    }
+  ]
+}
