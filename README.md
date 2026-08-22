@@ -45,3 +45,8 @@ Small businesses lose leads every day simply because no one follows up fast
 enough. This automation removes that gap entirely leads are read, judged,
 logged, and responded to within seconds of coming in, with zero manual effort
 from the business owner.
+
+## Built By
+
+Noor ul Ain — Agentic AI Developer specializing in Python, machine
+learning, and AI-powered automation using n8n.
