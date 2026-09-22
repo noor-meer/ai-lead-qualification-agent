@@ -2,7 +2,7 @@
 
 An automation built with **n8n** and the **OpenAI API** that reads incoming lead
 inquiries, uses AI to classify them as Hot, Warm, or Cold, and automatically
-routes each one to the right action — with zero manual work.
+routes each one to the right action with zero manual work.
 
 ## What It Does
 
@@ -41,10 +41,7 @@ Watch the full walkthrough(https://drive.google.com/file/d/1iYBxwj4XBWLoRd58I_uj
 
 ## Why This Matters
 
-Small businesses lose leads every day simply because no one follows up fast
-enough. This automation removes that gap entirely leads are read, judged,
-logged, and responded to within seconds of coming in, with zero manual effort
-from the business owner.
+This workflow demonstrates how AI-powered automation can streamline lead handling by classifying incoming inquiries, generating personalized responses, logging lead data, and routing high-priority opportunities automatically. It is designed to reduce repetitive lead screening and help teams respond to incoming opportunities more efficiently.
 
 ## Built By
 
