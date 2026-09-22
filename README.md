@@ -1,8 +1,8 @@
-# AI Lead Qualification & Auto-Routing Agent
+# 🤖 AI Lead Qualification & Auto-Routing Agent
 
 An AI-powered lead qualification and routing workflow built with **n8n and OpenAI**. It automatically captures incoming leads, analyzes their intent and urgency, classifies them as **Hot, Warm, or Cold**, and routes them to the appropriate follow-up actions.
 
-## How It Works
+## ⚙️ How It Works
 
 1. A lead enters through an **n8n Webhook**.
 2. JavaScript validates and structures the incoming data.
@@ -14,7 +14,7 @@ An AI-powered lead qualification and routing workflow built with **n8n and OpenA
    - 🌤️ **Warm** → Gmail response + Google Sheets
    - ❄️ **Cold** → Gmail response + Google Sheets
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - **n8n** — Workflow automation and orchestration
 - **OpenAI API** — AI classification and response generation
@@ -24,17 +24,18 @@ An AI-powered lead qualification and routing workflow built with **n8n and OpenA
 - **Slack** — Real-time Hot Lead alerts
 - **Postman** — Webhook testing
 
-## Why This Matters
+## 🎯 Why This Matters
 
-This workflow demonstrates how AI-powered automation can streamline lead handling by classifying incoming inquiries, generating personalized responses, logging lead data, and routing high-priority opportunities automatically. It is designed to reduce repetitive lead screening and help teams respond to incoming opportunities more efficiently.
+This workflow demonstrates how AI-powered automation can streamline lead handling by automatically classifying inquiries, generating personalized responses, maintaining structured lead records, and highlighting high-priority opportunities.
+
+It is designed to reduce repetitive lead screening and help teams manage incoming leads more efficiently.
+
+## 🎥 Project Demo
 
 
-## Project Demo
+Watch the full walkthrough (https://drive.google.com/file/d/1iYBxwj4XBWLoRd58I_ujPwAmJH9Mzk6B/view?usp=sharing)
 
-Watch the full walkthrough(https://drive.google.com/file/d/1iYBxwj4XBWLoRd58I_ujPwAmJH9Mzk6B/view?usp=sharing)
-
-
-## Built By
+## 👤 Built By
 
 **Noor ul Ain**  
 AI Automation Developer | n8n • AI Agents • RAG • API Integrations • Python
